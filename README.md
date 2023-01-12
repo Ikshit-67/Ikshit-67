@@ -1,8 +1,7 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on building a killer data analytics portfolio !
-- 🌱 I’m currently learning : Data Analytics with Pandas 
-- 👨🏻‍💻 I can help you with EDA and Data Viz
-- 👯 I’m looking to collaborate on : Data Science projects
+- 🌱 I’m currently learning : Swift and SwiftUI 
+- 👨🏻‍💻 I can help you with nothing
+- 👯 I’m looking to collaborate on : IOS App projects
 - 📫 Reach me at : ikshitchaudhari0@gmail.com
